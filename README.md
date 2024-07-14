@@ -1,4 +1,4 @@
-n this assignment for the internship application, I have created and hosted a website
+In this assignment for the internship application, I have created and hosted a website
 ## User Interactions
 
 ### **Animations  and Functionalities expected:**
